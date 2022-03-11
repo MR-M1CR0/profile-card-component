@@ -37,7 +37,6 @@ body {
   border-radius: 15px;
   overflow: hidden;
   position: relative;
-  box-shadow: 1px 1px 75px var(--primary-dark-grayish-blue);
 }
 
 .hero-img {
@@ -62,7 +61,7 @@ body {
   font-size: 1.5rem;
   color: var(--neutral-dark-gray);
   margin-top: 1rem;
-  margin-bottom: 4rem;
+  margin-bottom: 2rem;
 }
 
 .line {
